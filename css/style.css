@@ -1,0 +1,24 @@
+html{
+    box-sizing: border-box;
+}
+
+*, *::before, *::after{
+    box-sizing: inherit;
+}
+
+section{
+    width: 100%;
+    padding: 100px;
+}
+
+.one{
+    background: #023e8a;
+}
+
+.two{
+    background: #0077b6;
+}
+
+.three{
+    background: #0096c7;
+}
